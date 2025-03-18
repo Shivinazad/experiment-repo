@@ -1,8 +1,8 @@
-# Beautiful Webpage Project
+<span style="color:red">*Beautiful Webpage Project*</span>
 
 A simple yet elegant webpage created with pure HTML and CSS that features modern design elements, beautiful color gradients, and interactive components.
 
-## 📌 Preview
+## 📌 *Preview*
 
 This project creates a visually appealing landing page with:
 - Gradient backgrounds
@@ -11,7 +11,7 @@ This project creates a visually appealing landing page with:
 - Interactive buttons
 - Clean, modern typography
 
-## 🎨 Features
+## 🎨 *Features*
 
 - **Modern Design**: Clean layout with attention to visual details
 - **Color Gradients**: Beautiful blue and pink gradient elements
@@ -19,7 +19,7 @@ This project creates a visually appealing landing page with:
 - **Responsive**: Looks good on different screen sizes
 - **Pure HTML/CSS**: No external dependencies or libraries
 
-## 💻 Code
+## 💻 *Code*
 
 The webpage is built with simple HTML and CSS:
 
@@ -237,7 +237,7 @@ The webpage is built with simple HTML and CSS:
 </body>
 </html>
 ```
-##Screenshot ![image](https://github.com/user-attachments/assets/2b8ed654-91d7-4703-896b-9a4eb09b0087)
+## Screenshot ![image](https://github.com/user-attachments/assets/2b8ed654-91d7-4703-896b-9a4eb09b0087)
 
 
 
