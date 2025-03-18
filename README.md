@@ -40,7 +40,8 @@ Here is a simple **HTML & CSS** snippet from the project:
     <h1>Welcome to My Project 🚀</h1>
     <button class="btn">Click Me!</button>
 </body>
-```</html>
+</html>
+```
 📌 Output Preview: This code creates a basic webpage with a button.
 ________________________________________
 🔹 Features
