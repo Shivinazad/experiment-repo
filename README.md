@@ -279,7 +279,9 @@ The webpage is designed to be responsive and will adjust to different screen siz
 
 ## Collaborators
 Shivin Azad(lead)
+
 Sambhav Sehgal(vice-head)
+
 Dr. Vibhu Sharma(Faculty)
 
 ## 📄 License
