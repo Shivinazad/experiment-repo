@@ -249,6 +249,14 @@ The webpage is built with simple HTML and CSS:
 2. **Open in browser**: Double-click the file to open it in your default browser
 3. **Customize**: Modify the text, colors, and styles to match your project needs
 
+## 🛠 Technologies Used
+
+HTML5,
+CSS3,
+JavaScript, 
+GitHub Pages (for hosting, if needed)
+
+
 ## 🎨 Design Elements
 
 ### Color Scheme
