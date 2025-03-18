@@ -277,10 +277,15 @@ The webpage is designed to be responsive and will adjust to different screen siz
 - Adjust sizes and spacing in the CSS
 - Add or remove features from the feature list
 
+## Collaborators
+Shivin Azad(lead)
+Sambhav Sehgal(vice-head)
+Dr. Vibhu Sharma(Faculty)
+
 ## 📄 License
 
 This project is released under the MIT License.
 
----
 
-Created with ❤️ for a beautiful web presence
+
+
