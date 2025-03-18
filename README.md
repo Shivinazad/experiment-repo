@@ -1,4 +1,4 @@
-## 🎉*Project Name - Beautiful Webpage* 🎉
+## *Project Name - Beautiful Webpage* 
 
 
 
