@@ -1,5 +1,4 @@
-<span style="background-color:yellow; color:black">This text has a yellow background</span>
-
+_beautiful webpage_
 A simple yet elegant webpage created with pure HTML and CSS that features modern design elements, beautiful color gradients, and interactive components.
 
 ## 📌 *Preview*
