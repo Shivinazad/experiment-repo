@@ -1,4 +1,4 @@
-<span style="color:red">*Beautiful Webpage Project*</span>
+<span style="color:red">Beautiful Webpage Project</span>
 
 A simple yet elegant webpage created with pure HTML and CSS that features modern design elements, beautiful color gradients, and interactive components.
 
